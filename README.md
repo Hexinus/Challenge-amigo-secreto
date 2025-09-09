@@ -1,3 +1,3 @@
 <h1> Challengue amigo secreto </h1>
 
-proyecto en construcción vercion 1.0.0
+Para ejecutar el challengue descargar todos los archivos en una carpeta y abrir  el archivo "index" utilizando un navegador.
